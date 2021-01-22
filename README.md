@@ -9,10 +9,10 @@
 <img align="left" height="50" width="50" src="https://i.imgur.com/JCTIr4t.png"></img>
 <img align="left" height="50" width="50" src="https://i.imgur.com/0E0bTey.png"></img>
 <img align="left" height="50" width="50" src="https://i.imgur.com/9v8YEZ5.png"></img>
-<img align="left" height="50" width="50" src="https://i.imgur.com/b1x1CZ7.png"></img>
-</br>
-<hr>
-<br>
+<img align="left" height="50" width="50" src="https://i.imgur.com/b1x1CZ7.png"></img><br/>
+
+<hr><br/>
+
 
 
 

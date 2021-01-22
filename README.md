@@ -13,6 +13,8 @@
 <br/>
 <hr>
 
+<h3>Alguns Projetos Privados</h3>
+<p>www.goldclassic.com.br</p>
 
 
 
@@ -21,6 +23,8 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuanRosa&show_icons=true&theme=dracula)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuanRosa&show_icons=true&theme=dracula)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanRosa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

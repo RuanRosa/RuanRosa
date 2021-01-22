@@ -4,7 +4,7 @@
 <hr>
 <h3>Web developer</h3>
 
-<img align="left" src="https://www.flaticon.com/svg/vstatic/svg/1485/1485281.svg?token=exp=1611345475~hmac=9a440db02676b8c740ebe06577b0b577"></img>
+<img align="left" style="width:60px; height:50px;" src="https://www.flaticon.com/svg/vstatic/svg/1485/1485281.svg?token=exp=1611345475~hmac=9a440db02676b8c740ebe06577b0b577"></img>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuanRosa&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanRosa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

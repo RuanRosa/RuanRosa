@@ -4,7 +4,8 @@
 <hr>
 <h3>Web developer</h3><br>
 
-<img align="left" height="50" width="50" src="https://media.tenor.com/images/07084a784c728740f58cf6375a947af2/tenor.gif"></img>
+<img align="left" height="50" width="80" src="https://media.tenor.com/images/07084a784c728740f58cf6375a947af2/tenor.gif"></img>
+<img align="left" height="50" width="80" src="https://i.imgur.com/l2WrqGz.png"></img>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuanRosa&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanRosa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

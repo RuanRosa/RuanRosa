@@ -15,8 +15,6 @@
 <br/>
 <hr>
 
-<h3>Alguns Projetos Privados</h3>
-<p>www.goldclassic.com.br</p>
 
 
 

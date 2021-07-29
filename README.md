@@ -1,8 +1,8 @@
 <img align="center" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"></img>
 <hr>
-<pOlá, meu nome é Ruan e tenho 19 anos, sempre fui apaixonado por tecnologia e por conhecimento, comecei a desenvolver quando tinha apenas 14 anos, agora mais velho estou me especializando nesse imenso mundo do T.I
+<p>Olá, meu nome é Ruan e tenho 19 anos, sempre fui apaixonado por tecnologia e por conhecimento, comecei a desenvolver quando tinha apenas 14 anos, agora mais velho estou me especializando nesse imenso mundo do T.I</p>
 
-No momento minha maior paixão é o PHP / LARAVEL. <3.</p>
+<p>No momento minha maior paixão é o PHP / LARAVEL. <3.</p>
 <hr>
 <h3>Web developer</h3><br>
 

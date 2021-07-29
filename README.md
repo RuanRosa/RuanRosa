@@ -6,7 +6,7 @@
 <hr>
 <h3>Web developer</h3><br>
 
-<img align="left" height="50" width="80" src="https://media.tenor.com/images/07084a784c728740f58cf6375a947af2/tenor.gif"></img>
+<img align="left" height="50" width="80" src="https://img1.gratispng.com/20190819/uiy/transparent-document-icon-extension-icon-file-icon-5d667abfefda75.5205529915669971839825.jpg"></img>
 <img align="left" height="50" width="50" src="https://i.imgur.com/l2WrqGz.png"></img>
 <img align="left" height="50" width="50" src="https://i.imgur.com/JCTIr4t.png"></img>
 <img align="left" height="50" width="50" src="https://i.imgur.com/0E0bTey.png"></img>

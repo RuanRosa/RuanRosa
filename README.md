@@ -4,25 +4,7 @@
 
 <p>No momento minha maior paixão é o PHP / LARAVEL. <3.</p>
 <hr>
-<h3>Web developer</h3><br>
-
-<img align="left" height="50" width="80" src="https://e7.pngegg.com/pngimages/184/491/png-clipart-php-php.png"></img>
-<img align="left" height="50" width="50" src="https://i.imgur.com/l2WrqGz.png"></img>
-<img align="left" height="50" width="50" src="https://i.imgur.com/JCTIr4t.png"></img>
-<img align="left" height="50" width="50" src="https://i.imgur.com/0E0bTey.png"></img>
-<img align="left" height="50" width="50" src="https://i.imgur.com/9v8YEZ5.png"></img>
-<img align="left" height="50" width="50" src="https://i.imgur.com/dzmE4Qi.png"></img><br/>
-<br/>
-<hr>
-
-
-
-
-
-
-
-
-
+<h3>Full stack</h3><br>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuanRosa&show_icons=true&theme=dracula)<br/>

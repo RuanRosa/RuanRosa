@@ -10,9 +10,11 @@
 <img src="https://img.shields.io/badge/laravel-c0adff?style=for-the-badge&logo=laravel&logoColor=black">
 <img src="https://img.shields.io/badge/lumen-c0adff?style=for-the-badge&logo=lumen&logoColor=black">
 <img src="https://img.shields.io/badge/Golang-c0adff?style=for-the-badge&logo=go&logoColor=black">
-<img src="https://img.shields.io/badge/c++-c0adff?style=for-the-badge&logo=c++&logoColor=black">
+<img src="https://img.shields.io/badge/c++-c0adff?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/NodeJS-c0adff?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/ReactJS-c0adff?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Javascript-c0adff?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Javascript-c0adff?style=for-the-badge&logo=javascript&logoColor=black">
 
 </p>
 

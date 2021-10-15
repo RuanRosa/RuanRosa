@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/PHP-c0adff?style=for-the-badge&logo=php&logoColor=black">
 <img src="https://img.shields.io/badge/Golang-c0adff?style=for-the-badge&logo=go&logoColor=black">
 <img src="https://img.shields.io/badge/NodeJS-c0adff?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/c++-c0adff?style=for-the-badge&logo=c++&logoColor=black">
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuanRosa&show_icons=true&theme=dracula)<br/>

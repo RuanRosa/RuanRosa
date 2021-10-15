@@ -7,11 +7,13 @@
 <a href="https://www.linkedin.com/in/ruan-rosa-a3210b204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p>
 <img src="https://img.shields.io/badge/PHP-c0adff?style=for-the-badge&logo=php&logoColor=black">
-<img src="https://img.shields.io/badge/Golang-c0adff?style=for-the-badge&logo=go&logoColor=black">
-<img src="https://img.shields.io/badge/NodeJS-c0adff?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/c++-c0adff?style=for-the-badge&logo=c++&logoColor=black">
 <img src="https://img.shields.io/badge/laravel-c0adff?style=for-the-badge&logo=laravel&logoColor=black">
 <img src="https://img.shields.io/badge/lumen-c0adff?style=for-the-badge&logo=lumen&logoColor=black">
+<img src="https://img.shields.io/badge/Golang-c0adff?style=for-the-badge&logo=go&logoColor=black">
+<img src="https://img.shields.io/badge/c++-c0adff?style=for-the-badge&logo=c++&logoColor=black">
+<img src="https://img.shields.io/badge/NodeJS-c0adff?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/ReactJS-c0adff?style=for-the-badge&logo=react&logoColor=black">
+
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuanRosa&show_icons=true&theme=dracula)<br/>

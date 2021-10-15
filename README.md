@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/css-c0adff?style=for-the-badge&logo=&logoColor=black">
 <img src="https://img.shields.io/badge/Html-c0adff?style=for-the-badge&logo=html&logoColor=black">
 <img src="https://img.shields.io/badge/docker-c0adff?style=for-the-badge&logo=docker&logoColor=black">
-
+<img src="https://img.shields.io/badge/git-c0adff?style=for-the-badge&logo=git&logoColor=black">
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuanRosa&show_icons=true&theme=dracula)<br/>

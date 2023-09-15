@@ -1,7 +1,5 @@
 <img align="center" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"></img>
 <hr>
-<p>Olá, meu nome é Ruan e tenho 20 anos, sempre fui apaixonado por tecnologia e por conhecimento, comecei a desenvolver quando tinha apenas 14 anos, agora mais velho estou me especializando nesse imenso mundo do T.I. No momento sou back end developer</p>
-<p>No momento minha maior paixão é golang. <3.</p>
 <hr>
 <h3>Full Stack Developer</h3><br>
 <a href="https://www.linkedin.com/in/ruan-rosa-a3210b204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

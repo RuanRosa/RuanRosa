@@ -1,7 +1,7 @@
 <img align="center" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"></img>
 <hr>
 <hr>
-<h3>Full Stack Developer</h3><br>
+<h3>Back-end Developer</h3><br>
 <a href="https://www.linkedin.com/in/ruan-rosa-a3210b204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p>
   <img src="https://img.shields.io/badge/PHP-c0adff?style=for-the-badge&logo=php&logoColor=black">

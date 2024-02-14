@@ -1,22 +1,10 @@
 <img align="center" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"></img>
 <hr>
+  <h3>Back-end Developer</h3><br>
 <hr>
-<h3>Back-end Developer</h3><br>
 <a href="https://www.linkedin.com/in/ruan-rosa-a3210b204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p>
-  <img src="https://img.shields.io/badge/PHP-c0adff?style=for-the-badge&logo=php&logoColor=black">
-  <img src="https://img.shields.io/badge/laravel-c0adff?style=for-the-badge&logo=laravel&logoColor=black">
-  <img src="https://img.shields.io/badge/lumen-c0adff?style=for-the-badge&logo=lumen&logoColor=black">
-  <img src="https://img.shields.io/badge/Golang-c0adff?style=for-the-badge&logo=go&logoColor=black">
-  <img src="https://img.shields.io/badge/++-c0adff?style=for-the-badge&logo=c&logoColor=black">
-  <img src="https://img.shields.io/badge/NodeJS-c0adff?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/ReactJS-c0adff?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Javascript-c0adff?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/css-c0adff?style=for-the-badge&logo=&logoColor=black">
-  <img src="https://img.shields.io/badge/Html-c0adff?style=for-the-badge&logo=html&logoColor=black">
-  <img src="https://img.shields.io/badge/docker-c0adff?style=for-the-badge&logo=docker&logoColor=black">
-  <img src="https://img.shields.io/badge/git-c0adff?style=for-the-badge&logo=git&logoColor=black">
-  <img src="https://img.shields.io/badge/aws-c0adff?style=for-the-badge&logo=aws&logoColor=black">
+
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuanRosa&show_icons=true&theme=dracula)<br/>
